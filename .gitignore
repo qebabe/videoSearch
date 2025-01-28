@@ -1,0 +1,89 @@
+# 项目处理的视频相关文件
+processed_videos/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Project specific
+*.pyc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+logs/
+log/
+
+# Database
+*.db
+*.sqlite3
+
+# Media files
+*.mp4
+*.avi
+*.mov
+*.flv
+*.mkv
+
+# Model files
+*.pth
+*.pt
+*.h5
+*.model
+*.bin
+
+# Cache
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+
+# 字幕文件
+*.srt
+*.vtt
+
+# 其他
+Thumbs.db 

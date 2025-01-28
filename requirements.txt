@@ -1,0 +1,10 @@
+openai-whisper>=20231117
+torch>=2.0.0
+torchaudio>=2.0.0
+SQLAlchemy>=2.0.0
+tqdm>=4.65.0
+PyQt6>=6.4.0  # 用于图形界面 
+flask>=3.0.0
+flask-sqlalchemy>=3.1.1
+python-dotenv>=1.0.0
+werkzeug>=3.0.1 

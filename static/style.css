@@ -1,0 +1,160 @@
+.search-result {
+    border-bottom: 1px solid #dee2e6;
+    padding: 1rem 0;
+}
+
+.search-result:last-child {
+    border-bottom: none;
+}
+
+.timestamp {
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+.result-text {
+    margin: 0.5rem 0;
+}
+
+.video-info {
+    font-size: 0.9rem;
+    color: #495057;
+}
+
+#uploadStatus {
+    margin-top: 1rem;
+}
+
+.alert {
+    margin-bottom: 1rem;
+}
+
+.progress {
+    height: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.btn-group {
+    margin-top: 0.5rem;
+}
+
+.metadata {
+    font-size: 0.8rem;
+    color: #6c757d;
+    margin-top: 0.25rem;
+}
+
+.video-result {
+    margin-bottom: 1rem;
+}
+
+.video-result .card-header {
+    cursor: pointer;
+    user-select: none;
+    background-color: #f8f9fa;
+}
+
+.video-result .card-header:hover {
+    background-color: #e9ecef;
+}
+
+.video-result .collapse-icon {
+    transition: transform 0.2s;
+}
+
+.video-result .card-header.collapsed .collapse-icon {
+    transform: rotate(-90deg);
+}
+
+.video-result video {
+    max-height: 400px;
+    width: 100%;
+    object-fit: contain;
+    background: transparent;
+}
+
+.segments-container {
+    max-height: 300px;
+    overflow-y: auto;
+    padding-right: 5px;
+}
+
+.segments-container::-webkit-scrollbar {
+    width: 6px;
+}
+
+.segments-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 3px;
+}
+
+.segments-container::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 3px;
+}
+
+.segments-container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.segment-item {
+    background-color: #f8f9fa;
+    transition: background-color 0.2s;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+}
+
+.segment-item:hover {
+    background-color: #e9ecef;
+}
+
+.segment-item .timestamp {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.segment-item .text {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.segment-item .btn-outline-primary {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+}
+
+.segment-item .duration {
+    font-size: 0.8rem;
+}
+
+/* 视频播放器控件样式 */
+video::-webkit-media-controls {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+video::-webkit-media-controls-panel {
+    padding: 0 10px;
+}
+
+/* 视频容器样式 */
+.video-container {
+    background: #f8f9fa;
+    border-radius: 4px;
+    overflow: hidden;
+    position: relative;
+}
+
+/* 响应式布局 */
+@media (max-width: 768px) {
+    .video-result video {
+        max-height: 300px;
+    }
+    
+    .segments-container {
+        max-height: 250px;
+    }
+    
+    .segment-item {
+        font-size: 0.9rem;
+    }
+} 
