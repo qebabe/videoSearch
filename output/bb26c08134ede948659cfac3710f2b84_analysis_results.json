@@ -1,0 +1,870 @@
+{
+  "metadata": {
+    "duration": 171.64,
+    "resolution": "1920x1080",
+    "md5": "bb26c08134ede948659cfac3710f2b84",
+    "file_path": "E:\\BaiduNetdiskDownload\\人民小酒的答案.mp4",
+    "desc": "核心主题和要表达的内容\n这段视频主要讲述了一个人回到自己位于中国贵州省盘州市岩博村的家乡。他离开家乡已有二十年，但家乡的自然美景依然如故。通过音频内容，我们了解到，在当地领导的带领下，家乡已经实现了脱贫致富，并且办起了酒厂。视频重点介绍了岩博酒业的历史和酿酒工艺，强调了其独特的传统和品质。最后，视频传达了一个积极的信息：只要心中有梦想和激情，就一定能够实现自己的目标，为幸福生活干杯。"
+  },
+  "results": [
+    {
+      "time": "00:01",
+      "visual": "train",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:02",
+      "visual": "boat, train",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:03",
+      "visual": "train",
+      "ocr": "中国贵州",
+      "audiotext": "我穿越一万四千多公里,来到海拔一千八百三十六米的家乡。"
+    },
+    {
+      "time": "00:04",
+      "visual": "",
+      "ocr": "中国贵州 |盘州市  岩博村, 我穿越14000多公里",
+      "audiotext": ""
+    },
+    {
+      "time": "00:05",
+      "visual": "",
+      "ocr": "中国贵州 |盘州市  岩博村, 我穿越14000多公里",
+      "audiotext": ""
+    },
+    {
+      "time": "00:06",
+      "visual": "",
+      "ocr": "中国贵州 |盘州市, 岩博村, 来到海拔1836米的家乡",
+      "audiotext": ""
+    },
+    {
+      "time": "00:07",
+      "visual": "",
+      "ocr": "中国贵州 |盘州市, 岩博村, 来到海拔1836米的家乡",
+      "audiotext": ""
+    },
+    {
+      "time": "00:08",
+      "visual": "",
+      "ocr": "中国贵州 |盘州市, 岩博村, 来到海拔1836米的家乡",
+      "audiotext": ""
+    },
+    {
+      "time": "00:09",
+      "visual": "",
+      "ocr": "中国贵州 |盘州市  岩博村, 来到海拔1836米的家乡",
+      "audiotext": ""
+    },
+    {
+      "time": "00:10",
+      "visual": "",
+      "ocr": "中国贵州 |盘州市  岩博村",
+      "audiotext": ""
+    },
+    {
+      "time": "00:11",
+      "visual": "",
+      "ocr": "中国贵州 |盘州市, 岩博村",
+      "audiotext": "离开了二十年,绿水青山依旧,奏响着大自然的赞歌。"
+    },
+    {
+      "time": "00:12",
+      "visual": "",
+      "ocr": "离开了20年",
+      "audiotext": ""
+    },
+    {
+      "time": "00:13",
+      "visual": "",
+      "ocr": "离开了20年",
+      "audiotext": ""
+    },
+    {
+      "time": "00:16",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:17",
+      "visual": "",
+      "ocr": "奏响着大自然的赞歌",
+      "audiotext": ""
+    },
+    {
+      "time": "00:18",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:23",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": "姐说,在于阿姨、于书记的带领下,今天的家乡早已脱贫致富,。"
+    },
+    {
+      "time": "00:24",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:25",
+      "visual": "",
+      "ocr": "在余阿姨",
+      "audiotext": ""
+    },
+    {
+      "time": "00:26",
+      "visual": "",
+      "ocr": "余书记的带领下",
+      "audiotext": ""
+    },
+    {
+      "time": "00:27",
+      "visual": "person",
+      "ocr": "今天的家乡早已脱贫致富",
+      "audiotext": ""
+    },
+    {
+      "time": "00:28",
+      "visual": "person",
+      "ocr": "今天的家乡早已脱贫致富",
+      "audiotext": ""
+    },
+    {
+      "time": "00:29",
+      "visual": "person",
+      "ocr": "今天的家乡早已脱贫致富",
+      "audiotext": "村民凑钱赎回了村民,办起了酒厂。"
+    },
+    {
+      "time": "00:30",
+      "visual": "person",
+      "ocr": "peroon: 0.87, 村民凑钱赎回了森林",
+      "audiotext": ""
+    },
+    {
+      "time": "00:31",
+      "visual": "person",
+      "ocr": "村民凑钱赎回了森林",
+      "audiotext": ""
+    },
+    {
+      "time": "00:32",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:33",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:34",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:35",
+      "visual": "person, sheep",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:36",
+      "visual": "person",
+      "ocr": "大山情怀, 彝留芬芳",
+      "audiotext": ""
+    },
+    {
+      "time": "00:37",
+      "visual": "person",
+      "ocr": "大山情怀, 彝留芬芳",
+      "audiotext": ""
+    },
+    {
+      "time": "00:38",
+      "visual": "person",
+      "ocr": "大山情怀, 彝留芬芳",
+      "audiotext": ""
+    },
+    {
+      "time": "00:39",
+      "visual": "person",
+      "ocr": "彝留芬芳",
+      "audiotext": ""
+    },
+    {
+      "time": "00:40",
+      "visual": "person",
+      "ocr": "彝留芬芳",
+      "audiotext": ""
+    },
+    {
+      "time": "00:41",
+      "visual": "person",
+      "ocr": "大山情怀, 彝留芬芳",
+      "audiotext": ""
+    },
+    {
+      "time": "00:42",
+      "visual": "person",
+      "ocr": "大山情怀, 彝留芬芳",
+      "audiotext": ""
+    },
+    {
+      "time": "00:43",
+      "visual": "bowl, cup",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:44",
+      "visual": "bowl",
+      "ocr": "彝族传承600年的小坛发酵",
+      "audiotext": ""
+    },
+    {
+      "time": "00:45",
+      "visual": "bowl",
+      "ocr": "彝族传承600年的小坛发酵",
+      "audiotext": ""
+    },
+    {
+      "time": "00:46",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:47",
+      "visual": "",
+      "ocr": "600年前",
+      "audiotext": ""
+    },
+    {
+      "time": "00:48",
+      "visual": "person",
+      "ocr": "600年前, 发现酒的奥秘",
+      "audiotext": ""
+    },
+    {
+      "time": "00:49",
+      "visual": "person",
+      "ocr": "600年前, 先辈们在这里 '发|现酒的奥秘",
+      "audiotext": ""
+    },
+    {
+      "time": "00:50",
+      "visual": "chair, person",
+      "ocr": "先辈们, 酒的奥秘",
+      "audiotext": ""
+    },
+    {
+      "time": "00:51",
+      "visual": "person",
+      "ocr": "person: 0.89",
+      "audiotext": ""
+    },
+    {
+      "time": "00:52",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:53",
+      "visual": "hot dog",
+      "ocr": "hot dog: 0.38",
+      "audiotext": ""
+    },
+    {
+      "time": "00:54",
+      "visual": "hot dog, person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:55",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "00:56",
+      "visual": "person",
+      "ocr": "在时间的磨砺中",
+      "audiotext": ""
+    },
+    {
+      "time": "00:57",
+      "visual": "person",
+      "ocr": "在时间的磨砺中",
+      "audiotext": ""
+    },
+    {
+      "time": "00:58",
+      "visual": "person",
+      "ocr": "代一代, 在时间的磨砺中",
+      "audiotext": ""
+    },
+    {
+      "time": "00:59",
+      "visual": "person",
+      "ocr": "-代一代, 在 时间的磨砺中",
+      "audiotext": ""
+    },
+    {
+      "time": "01:00",
+      "visual": "",
+      "ocr": "在 时间的磨砺中",
+      "audiotext": ""
+    },
+    {
+      "time": "01:01",
+      "visual": "",
+      "ocr": "一代一代  酒香益浓, 在时间的磨砺中",
+      "audiotext": ""
+    },
+    {
+      "time": "01:02",
+      "visual": "person",
+      "ocr": "在时间的磨砺中",
+      "audiotext": ""
+    },
+    {
+      "time": "01:03",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:04",
+      "visual": "bowl, cup, mouse, spoon",
+      "ocr": "cUp: 6.25",
+      "audiotext": ""
+    },
+    {
+      "time": "01:05",
+      "visual": "bowl, mouse",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:06",
+      "visual": "bowl",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:07",
+      "visual": "mouse, vase",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:09",
+      "visual": "",
+      "ocr": "",
+      "audiotext": "沿泊酒业,围绕着原生态的魅力,酿造出具有清亮透明,香气优雅,醇厚丰满,回味悠长的人民小酒。"
+    },
+    {
+      "time": "01:10",
+      "visual": "",
+      "ocr": "岩博酒业",
+      "audiotext": ""
+    },
+    {
+      "time": "01:11",
+      "visual": "",
+      "ocr": "围绕着原生态的魅力",
+      "audiotext": ""
+    },
+    {
+      "time": "01:12",
+      "visual": "person",
+      "ocr": "围绕着原生态的魅力",
+      "audiotext": ""
+    },
+    {
+      "time": "01:14",
+      "visual": "",
+      "ocr": "酿造出具有清亮透明",
+      "audiotext": ""
+    },
+    {
+      "time": "01:15",
+      "visual": "",
+      "ocr": "酿造出具有清亮透明",
+      "audiotext": ""
+    },
+    {
+      "time": "01:16",
+      "visual": "cake",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:17",
+      "visual": "",
+      "ocr": "香气优雅",
+      "audiotext": ""
+    },
+    {
+      "time": "01:18",
+      "visual": "",
+      "ocr": "醇厚丰满",
+      "audiotext": ""
+    },
+    {
+      "time": "01:19",
+      "visual": "",
+      "ocr": "醇厚丰满",
+      "audiotext": ""
+    },
+    {
+      "time": "01:20",
+      "visual": "",
+      "ocr": "Rrol, 回味悠长的人民小酒",
+      "audiotext": ""
+    },
+    {
+      "time": "01:21",
+      "visual": "",
+      "ocr": "回味悠长的人民小酒",
+      "audiotext": ""
+    },
+    {
+      "time": "01:25",
+      "visual": "",
+      "ocr": "",
+      "audiotext": "取上善之水,天赋尽其所长。"
+    },
+    {
+      "time": "01:26",
+      "visual": "",
+      "ocr": "取上善之水",
+      "audiotext": ""
+    },
+    {
+      "time": "01:28",
+      "visual": "",
+      "ocr": "天赋尽其所长",
+      "audiotext": ""
+    },
+    {
+      "time": "01:36",
+      "visual": "",
+      "ocr": "人民小酒酒厂",
+      "audiotext": ""
+    },
+    {
+      "time": "01:37",
+      "visual": "",
+      "ocr": "人民小酒酒厂",
+      "audiotext": ""
+    },
+    {
+      "time": "01:38",
+      "visual": "",
+      "ocr": "人民小酒酒厂",
+      "audiotext": ""
+    },
+    {
+      "time": "01:39",
+      "visual": "",
+      "ocr": "人民小酒酒厂",
+      "audiotext": ""
+    },
+    {
+      "time": "01:40",
+      "visual": "person, suitcase",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:41",
+      "visual": "person, suitcase",
+      "ocr": "",
+      "audiotext": "穿越六百年的酒厢,在这里传承、延续。"
+    },
+    {
+      "time": "01:42",
+      "visual": "vase",
+      "ocr": "穿越600年的酒香",
+      "audiotext": ""
+    },
+    {
+      "time": "01:43",
+      "visual": "bottle, fork",
+      "ocr": "穿越600年的酒香",
+      "audiotext": ""
+    },
+    {
+      "time": "01:44",
+      "visual": "bird",
+      "ocr": "在这里传承",
+      "audiotext": ""
+    },
+    {
+      "time": "01:45",
+      "visual": "bird",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:46",
+      "visual": "bird",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:47",
+      "visual": "baseball bat, bird, person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:48",
+      "visual": "baseball bat, person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:49",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": "从粮食生长,到窖池发酵,再到鸡酒储存。"
+    },
+    {
+      "time": "01:50",
+      "visual": "person",
+      "ocr": "从粮食生长",
+      "audiotext": ""
+    },
+    {
+      "time": "01:53",
+      "visual": "",
+      "ocr": "到窖池发酵",
+      "audiotext": ""
+    },
+    {
+      "time": "01:55",
+      "visual": "elephant",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "01:56",
+      "visual": "",
+      "ocr": "再到基酒储存",
+      "audiotext": ""
+    },
+    {
+      "time": "01:58",
+      "visual": "",
+      "ocr": "",
+      "audiotext": "每一个步骤都是时间的魔法,滴加酿,源于独庙匠心的坚守。"
+    },
+    {
+      "time": "01:59",
+      "visual": "spoon",
+      "ocr": "每一个步骤",
+      "audiotext": ""
+    },
+    {
+      "time": "02:00",
+      "visual": "person, vase",
+      "ocr": "都是时间的魔法",
+      "audiotext": ""
+    },
+    {
+      "time": "02:01",
+      "visual": "vase",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:03",
+      "visual": "bird",
+      "ocr": "滴滴佳酿",
+      "audiotext": ""
+    },
+    {
+      "time": "02:04",
+      "visual": "",
+      "ocr": "源于独妙匠心的坚守",
+      "audiotext": ""
+    },
+    {
+      "time": "02:05",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:07",
+      "visual": "",
+      "ocr": "&",
+      "audiotext": ""
+    },
+    {
+      "time": "02:09",
+      "visual": "",
+      "ocr": "清酱香型白酒",
+      "audiotext": ""
+    },
+    {
+      "time": "02:11",
+      "visual": "person",
+      "ocr": "peroon: 0.62",
+      "audiotext": ""
+    },
+    {
+      "time": "02:12",
+      "visual": "person",
+      "ocr": "poroon: 0.49, 余留芬",
+      "audiotext": ""
+    },
+    {
+      "time": "02:13",
+      "visual": "person",
+      "ocr": "余留芬, 贵州岩博酒业有限公司董事长",
+      "audiotext": ""
+    },
+    {
+      "time": "02:14",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": "不论是微小的期盼,还是卓越的创建,只要你心中有汹涌,背后就会有浪潮。"
+    },
+    {
+      "time": "02:15",
+      "visual": "person, tie",
+      "ocr": "不论是微小的期盼",
+      "audiotext": ""
+    },
+    {
+      "time": "02:16",
+      "visual": "person",
+      "ocr": "不论是微小的期盼",
+      "audiotext": ""
+    },
+    {
+      "time": "02:17",
+      "visual": "person",
+      "ocr": "还是卓越的创见",
+      "audiotext": ""
+    },
+    {
+      "time": "02:18",
+      "visual": "person",
+      "ocr": "peroon: 0.62",
+      "audiotext": ""
+    },
+    {
+      "time": "02:19",
+      "visual": "person",
+      "ocr": "0.59, 只要你心中有汹涌",
+      "audiotext": ""
+    },
+    {
+      "time": "02:20",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:21",
+      "visual": "person",
+      "ocr": "背后就会有浪潮",
+      "audiotext": ""
+    },
+    {
+      "time": "02:22",
+      "visual": "cell phone, person",
+      "ocr": "poroon: 0.66, poroon: 0.76, 背后就会有浪潮",
+      "audiotext": ""
+    },
+    {
+      "time": "02:23",
+      "visual": "cake, person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:24",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:25",
+      "visual": "person",
+      "ocr": ":, 岩上清酱",
+      "audiotext": ""
+    },
+    {
+      "time": "02:26",
+      "visual": "frisbee, person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:27",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:28",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:29",
+      "visual": "person",
+      "ocr": "peroon: 0.46",
+      "audiotext": ""
+    },
+    {
+      "time": "02:30",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:31",
+      "visual": "person",
+      "ocr": "041",
+      "audiotext": ""
+    },
+    {
+      "time": "02:32",
+      "visual": "chair, person",
+      "ocr": "peroon: 0.54",
+      "audiotext": ""
+    },
+    {
+      "time": "02:33",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:34",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:35",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:36",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:37",
+      "visual": "person",
+      "ocr": "81, poroon: 0.66",
+      "audiotext": ""
+    },
+    {
+      "time": "02:38",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": "人民小酒,为幸福生活,举杯。"
+    },
+    {
+      "time": "02:39",
+      "visual": "person",
+      "ocr": "人民小酒",
+      "audiotext": ""
+    },
+    {
+      "time": "02:40",
+      "visual": "person",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:41",
+      "visual": "cup, person",
+      "ocr": "CUp: 6.26, 为幸福生活",
+      "audiotext": ""
+    },
+    {
+      "time": "02:42",
+      "visual": "person",
+      "ocr": "举杯",
+      "audiotext": ""
+    },
+    {
+      "time": "02:43",
+      "visual": "person",
+      "ocr": "poroon: 0.57",
+      "audiotext": ""
+    },
+    {
+      "time": "02:44",
+      "visual": "clock",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:46",
+      "visual": "cat, vase",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:47",
+      "visual": "vase",
+      "ocr": "B8T, 盛世",
+      "audiotext": ""
+    },
+    {
+      "time": "02:48",
+      "visual": "vase",
+      "ocr": "o, 盛世",
+      "audiotext": ""
+    },
+    {
+      "time": "02:49",
+      "visual": "vase",
+      "ocr": "",
+      "audiotext": ""
+    },
+    {
+      "time": "02:50",
+      "visual": "vase",
+      "ocr": "盛世",
+      "audiotext": ""
+    },
+    {
+      "time": "02:51",
+      "visual": "vase",
+      "ocr": "6.72, 盛世",
+      "audiotext": ""
+    }
+  ],
+  "summary": "### 视频内容总结\n\n#### 基本信息\n- **时长**：171.64秒\n- **分辨率**：1920x1080\n\n#### 主要内容发展\n\n**00:01 - 00:03**\n- **画面内容**：视频开始，镜头中出现火车。\n- **音频内容**：无。\n\n**00:03 - 00:05**\n- **画面内容**：火车继续行驶，文字显示“中国贵州 |盘州市  岩博村, 我穿越14000多公里”。\n- **音频内容**：“我穿越一万四千多公里,来到海拔一千八百三十六米的家乡。”\n\n**00:06 - 00:10**\n- **画面内容**：文字进一步补充“来到海拔1836米的家乡”。\n- **音频内容**：无。\n\n**00:11 - 00:13**\n- **画面内容**：文字显示“离开了20年”。\n- **音频内容**：“离开了二十年,绿水青山依旧,奏响着大自然的赞歌。”\n\n**00:14 - 00:22**\n- **画面内容**：出现人物（可能是返乡的人）。\n- **音频内容**：无。\n\n**00:23 - 00:27**\n- **画面内容**：人物继续出现在画面中。\n- **音频内容**：“姐说,在于阿姨、于书记的带领下,今天的家乡早已脱贫致富。”\n\n**00:28 - 00:35**\n- **画面内容**：人物和一些村民。\n- **音频内容**：“村民凑钱赎回了村民,办起了酒厂。”\n\n**00:36 - 00:42**\n- **画面内容**：文字显示“大山情怀, 彝留芬芳”。\n- **音频内容**：无。\n\n**00:43 - 00:49**\n- **画面内容**：碗、杯子等物品，文字显示“彝族传承600年的小坛发酵”。\n- **音频内容**：“600年前, 先辈们在这里发现酒的奥秘。”\n\n**00:50 - 00:59**\n- **画面内容**：人物在不同的场景中。\n- **音频内容**：“在时间的磨砺中,一代一代, 酒香益浓。”\n\n**01:00 - 01:05**\n- **画面内容**：碗、杯子等物品。\n- **音频内容**：无。\n\n**01:06 - 01:10**\n- **画面内容**：人物和物品。\n- **音频内容**：“沿泊酒业,围绕着原生态的魅力,酿造出具有清亮透明,香气优雅,醇厚丰满,回味悠长的人民小酒。”\n\n**01:11 - 01:15**\n- **画面内容**：文字显示“岩博酒业”，“围绕着原生态的魅力”。\n- **音频内容**：无。\n\n**01:25 - 01:28**\n- **画面内容**：人物。\n- **音频内容**：“取上善之水,天赋尽其所长。”\n\n**01:36 - 01:40**\n- **画面内容**：文字显示“人民小酒酒厂”。\n- **音频内容**：无。\n\n**01:41 - 01:47**\n- **画面内容**：人物和行李箱，文字显示“穿越600年的酒香”。\n- **音频内容**：“穿越六百年的酒香,在这里传承、延续。”\n\n**01:48 - 01:50**\n- **画面内容**：鸟、棒球棒等物品。\n- **音频内容**：“从粮食生长,到窖池发酵,再到基酒储存。”\n\n**01:51 - 01:58**\n- **画面内容**：人物和物品。\n- **音频内容**：“每一个步骤都是时间的魔法,滴滴佳酿,源于独妙匠心的坚守。”\n\n**02:00 - 02:05**\n- **画面内容**：人物。\n- **音频内容**：无。\n\n**02:06 - 02:10**\n- **画面内容**：文字显示“清酱香型白酒”。\n- **音频内容**：“不论是微小的期盼,还是卓越的创建,只要你心中有汹涌,背后就会有浪潮。”\n\n**02:11 - 02:20**\n- **画面内容**：人物。\n- **音频内容**：无。\n\n**02:21 - 02:25**\n- **画面内容**：文字显示“岩上清酱”。\n- **音频内容**：“背后就会有浪潮。”\n\n**02:26 - 02:30**\n- **画面内容**：人物。\n- **音频内容**：无。\n\n**02:31 - 02:37**\n- **画面内容**：人物。\n- **音频内容**：无。\n\n**02:38 - 02:42**\n- **画面内容**：人物和杯子。\n- **音频内容**：“人民小酒,为幸福生活,举杯。”\n\n**02:43 - 02:51**\n- **画面内容**：花瓶和其他物品。\n- **音频内容**：无。\n\n#### 核心主题和要表达的内容\n这段视频主要讲述了一个人回到自己位于中国贵州省盘州市岩博村的家乡。他离开家乡已有二十年，但家乡的自然美景依然如故。通过音频内容，我们了解到，在当地领导的带领下，家乡已经实现了脱贫致富，并且办起了酒厂。视频重点介绍了岩博酒业的历史和酿酒工艺，强调了其独特的传统和品质。最后，视频传达了一个积极的信息：只要心中有梦想和激情，就一定能够实现自己的目标，为幸福生活干杯。\n\n视频通过丰富的视觉元素和详细的音频叙述，展现了岩博村的发展变化以及当地人对美好生活的追求。"
+}

@@ -1,10 +1,24 @@
-openai-whisper>=20231117
-torch>=2.0.0
-torchaudio>=2.0.0
-SQLAlchemy>=2.0.0
+# PyTorch with CUDA 12.1
+#--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+
+# 基础依赖
 tqdm>=4.65.0
 PyQt6>=6.4.0  # 用于图形界面 
 flask>=3.0.0
 flask-sqlalchemy>=3.1.1
 python-dotenv>=1.0.0
 werkzeug>=3.0.1 
+SQLAlchemy>=2.0.0
+
+# 视觉和音频处理
+opencv-python>=4.8.0  # 视频处理
+moviepy>=1.0.3  # 视频编辑
+scenedetect>=0.6.2  # 镜头边界检测
+openai-whisper>=20231117
+
+# AI模型相关
+ultralytics>=8.0.0  # YOLOv8
+transformers>=4.36.0  # 用于场景分类
